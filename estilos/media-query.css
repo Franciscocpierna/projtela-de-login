@@ -16,6 +16,7 @@ Grandes telas: acima de 1200px
  
     section#login { 
     width: 80vw;
+    height: 280;
 }  
 
 input {
@@ -46,6 +47,7 @@ section#login > div#formulario {
     section#login {
 
         width: 950px;
+        height: 350px;
     }
 
     section#login > div#imagem {
@@ -58,12 +60,12 @@ section#login > div#formulario {
         width: 47%;
     }
     div#formulario > p {
-        font-size: 1.2em;
-    
+        font-size: 1em;
+        margin: 20px 0px;
     }
-    div#formulario h1 p {
+    div#formulario > h1  {
         font-size: 2em;
-    
+      
     }
     input {
        width: 50%;
